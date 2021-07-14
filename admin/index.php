@@ -59,7 +59,7 @@ exit();
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost/major/ospms/">
+						<li><a href="../">
 						Back to Portal
 						
 						</a></li>
